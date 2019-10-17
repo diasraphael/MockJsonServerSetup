@@ -1,2 +1,0 @@
-# MockJsonServerSetup
-Created with CodeSandbox
